@@ -1,12 +1,12 @@
 [
   {
-    "text": "Пример поста 1",
-    "image": "https://example.com/image1.jpg",
-    "date": "2024-05-01"
+    "text": "Новое поступление игрушек!",
+    "image": "https://via.placeholder.com/300x200?text=Игрушки",
+    "date": "2025-05-20"
   },
   {
-    "text": "Пример поста 2",
-    "image": "https://example.com/image2.jpg",
-    "date": "2024-05-02"
+    "text": "Скидка 20% на все матрёшки до конца недели!",
+    "image": "https://via.placeholder.com/300x200?text=Скидка",
+    "date": "2025-05-18"
   }
 ]
