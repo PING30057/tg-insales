@@ -1,0 +1,12 @@
+[
+  {
+    "text": "Пример поста 1",
+    "image": "https://example.com/image1.jpg",
+    "date": "2024-05-01"
+  },
+  {
+    "text": "Пример поста 2",
+    "image": "https://example.com/image2.jpg",
+    "date": "2024-05-02"
+  }
+]
